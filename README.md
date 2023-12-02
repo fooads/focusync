@@ -1,5 +1,5 @@
 # FocuSync
-This prototype serves as the final project for CS374 Introduction to Human-Computer Interaction
+This prototype serves as the final project for CS374 Introduction to Human-Computer Interaction.
 
 _FocuSync_ is a mobile distraction blocker which is based on the [pomodoro technique](https://www.techtarget.com/whatis/definition/pomodoro-technique).
 The application's representative feature is real-time group study session, which occurs during the "focus" periods of a Pomodoro cycle. 
